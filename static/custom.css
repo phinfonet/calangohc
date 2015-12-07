@@ -2,7 +2,11 @@ body {
     padding-top: 60px;
 }
 a {
-    color: #7EDB30;
+    color: #00bc8c;
+}
+
+footer a {
+    color: #303030;
 }
 .navbar-brand > span > img {
     width: 40px;
