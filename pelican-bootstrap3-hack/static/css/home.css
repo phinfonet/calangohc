@@ -28,3 +28,9 @@
 .mid-dark-section .well {
     background-color: #222222;
 }
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus,
+.navbar-inverse .navbar-brand:hover {
+    color: #303030;
+}
