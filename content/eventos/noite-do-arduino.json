@@ -1,0 +1,12 @@
+{
+    "titulo": "Noite do Arduino",
+    "responsavel": {
+        "nome": "Fábio",
+        "link": "http://calango.club/membros/fabio_franca"
+    },
+    "imagem": "images/eventos/logo_arduino.png",
+    "data": "10/12/15 19:00",
+    "link": "http://calango.club/eventos/estudos/arduino/inicio",
+    "descricao": "O grupo Arduino Brasília foi criado para trocar informações sobre o Arduino e se tornou o responsável inicial por aproximar a turma de Brasília interessada em open-hardware e programação, e que culminou com a criação do Calango… Portanto, devemos muito à essa 'plaquinha' mágica de infinitas possibilidades e que abriu incontáveis caminhos!",
+    "status": "pendente"
+}
