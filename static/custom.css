@@ -1,0 +1,53 @@
+body {
+    padding-top: 60px;
+}
+a {
+    color: #7EDB30;
+}
+.navbar-brand > span > img {
+    width: 40px;
+}
+
+.navbar-brand {
+    margin-top: -9px;
+}
+
+.green-section {
+    background-color: #009871;
+}
+
+.home-section {
+    padding-top: 60px;
+    padding-bottom: 90px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.home-section h2,
+.home-section-contents > p {
+    padding-bottom: 25px;
+}
+
+.home-seciton p {}
+
+#calango-banner-logo  {
+    margin: 0 auto 20px;
+}
+
+//#sobre {
+//    padding-top: 50px;
+//}
+//
+.home-section-nav {
+    margin-top: 25px;
+}
+
+.home-section-nav > ul> li {
+    display: inline-block;
+    float: none;
+}
+
+footer {
+    background-color: #009871;
+    padding-top: 50px;
+    padding-bottom: 50px;

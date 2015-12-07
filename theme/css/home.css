@@ -1,0 +1,30 @@
+//html, body {
+//    height: 100%;
+//}
+//
+//body {
+//    padding-top: 60px;
+//}
+//
+//.home, .home .home-section {
+//    height: 101%;
+//}
+
+.mid-dark-section {
+    background-color: #303030;
+}
+
+.home > section {
+    margin-bottom: 0px;
+}
+
+.evento-hacker .thumbnail {
+    background-color: #303030;
+    border: 1px solid #303030;
+    min-height: 700px;
+}
+
+
+.mid-dark-section .well {
+    background-color: #222222;
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Calango Hacker Club</title><link href="http://magnunleno.github.io/calangohc/" rel="alternate"></link><link href="http://magnunleno.github.io/calangohc/feeds/programacao.atom.xml" rel="self"></link><id>http://magnunleno.github.io/calangohc/</id><updated>2015-11-29T23:54:00-02:00</updated><entry><title>1º GrupyLango</title><link href="http://magnunleno.github.io/calangohc/blog/1o-grupylango" rel="alternate"></link><updated>2015-11-29T23:54:00-02:00</updated><author><name>Magnun Leno</name></author><id>tag:magnunleno.github.io,2015-11-29:calangohc/blog/1o-grupylango</id><summary type="html">&lt;html&gt;&lt;body&gt;&lt;p&gt;No dia 28 de Novembro de 2015, o Calango Hacker Club teve o prazer de convidar
+3 integrantes do &lt;a class="reference external" href="http://grupydf.github.io"&gt;GrupyDF&lt;/a&gt; para apresentar temas diversos no nosso hackerspace.&lt;/p&gt;
+&lt;div class="figure align-center" style="width: 1024px; height: auto; max-width: 100%;"&gt;
+&lt;a class="reference external image-reference" href="http://magnunleno.github.io/calangohc/images/grupylango/grupylango-banner.png"&gt;&lt;img alt="Grupylango" src="http://magnunleno.github.io/calangohc/images/grupylango/grupylango-banner.png" style="width: 1024px; height: auto; max-width: 100%;"/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;Segue abaixo a grade do evento:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;10h às 12h - Vim - muito mais que um editor de texto (Magnun Leno)&lt;/li&gt;
+&lt;li&gt;12h às 14h - (pausa para almoço)&lt;/li&gt;
+&lt;li&gt;14h às 16h - blogs estáticos com Cactus e/ou Pelican (Douglas Andrade e/ou Otávio)&lt;/li&gt;
+&lt;li&gt;16h às 18h - redes sociais com tapioca (Humberto Rocha)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;E não é que essa galera do GrupyDF sabe honrar a filosofia Hacker?! Pois o que
+tem de mais hacker do que um editor de texto oldschool, criação de sites
+estáticos e criar sua própria rede social?&lt;/p&gt;
+&lt;div class="section" id="fotos-do-evento"&gt;
+&lt;h2&gt;Fotos do Evento&lt;/h2&gt;
+&lt;div class="figure align-center" style="width: 1280px; height: auto; max-width: 100%;"&gt;
+&lt;a class="reference external image-reference" href="http://magnunleno.github.io/calangohc/images/grupylango/grupylango-01.jpg"&gt;&lt;img alt="Grupylango" src="http://magnunleno.github.io/calangohc/images/grupylango/grupylango-01.jpg" style="width: 1280px; height: auto; max-width: 100%;"/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="figure align-center" style="width: 1280px; height: auto; max-width: 100%;"&gt;
+&lt;a class="reference external image-reference" href="http://magnunleno.github.io/calangohc/images/grupylango/grupylango-02.jpg"&gt;&lt;img alt="Grupylango" src="http://magnunleno.github.io/calangohc/images/grupylango/grupylango-02.jpg" style="width: 1280px; height: auto; max-width: 100%;"/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="figure align-center" style="width: 1280px; height: auto; max-width: 100%;"&gt;
+&lt;a class="reference external image-reference" href="http://magnunleno.github.io/calangohc/images/grupylango/grupylango-03.jpg"&gt;&lt;img alt="Grupylango" src="http://magnunleno.github.io/calangohc/images/grupylango/grupylango-03.jpg" style="width: 1280px; height: auto; max-width: 100%;"/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="figure align-center" style="width: 1280px; height: auto; max-width: 100%;"&gt;
+&lt;a class="reference external image-reference" href="http://magnunleno.github.io/calangohc/images/grupylango/grupylango-04.jpg"&gt;&lt;img alt="Grupylango" src="http://magnunleno.github.io/calangohc/images/grupylango/grupylango-04.jpg" style="width: 1280px; height: auto; max-width: 100%;"/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="figure align-center" style="width: 1280px; height: auto; max-width: 100%;"&gt;
+&lt;a class="reference external image-reference" href="http://magnunleno.github.io/calangohc/images/grupylango/grupylango-05.jpg"&gt;&lt;img alt="Grupylango" src="http://magnunleno.github.io/calangohc/images/grupylango/grupylango-05.jpg" style="width: 1280px; height: auto; max-width: 100%;"/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="figure align-center" style="width: 1280px; height: auto; max-width: 100%;"&gt;
+&lt;a class="reference external image-reference" href="http://magnunleno.github.io/calangohc/images/grupylango/grupylango-06.jpg"&gt;&lt;img alt="Grupylango" src="http://magnunleno.github.io/calangohc/images/grupylango/grupylango-06.jpg" style="width: 1280px; height: auto; max-width: 100%;"/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/html&gt;</summary><category term="grupydf"></category><category term="python"></category><category term="vim"></category><category term="cactus"></category><category term="pelican"></category><category term="tapioca"></category><category term="tornado"></category></entry></feed>
